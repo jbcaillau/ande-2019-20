@@ -31,3 +31,4 @@
 [(corrigé)](td3/td3-corr.pdf)
 
 [Projet](https://github.com/jbcaillau/ande/blob/master/proj/proj.ipynb)
+[(corrigé)](https://github.com/jbcaillau/ande/blob/master/proj/proj-corr.ipynb)
